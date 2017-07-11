@@ -1,2 +1,2 @@
 
-Video streaming with React and Redux using YouTube API.
+Video streaming platform with React and Redux using YouTube API.
